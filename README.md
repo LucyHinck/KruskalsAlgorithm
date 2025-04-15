@@ -9,3 +9,7 @@ Melanie P., Architect
 Jack V., Videographer
 
 Programed on Google Colab in Python
+
+
+
+Latest version with updated code marked as v.2
