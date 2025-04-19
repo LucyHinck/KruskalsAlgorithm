@@ -9,4 +9,4 @@ Lucy H., Programmer; Melanie P., Architect; Jack V., Videographer
 Programed on Google Colab in Python
 
 
-Latest version with updated code marked as v.3
+Latest version with updated code titled Kruskal's_Algorithm.ipynb with the Colab link to run the code
